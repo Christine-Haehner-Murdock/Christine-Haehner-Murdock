@@ -1,6 +1,6 @@
 # Christine Hähner-Murdock
 
-**Independent AI-safety researcher · Lecturer · Secondary-school teacher · Fine artist · Competitive powerlifter**
+**Independent AI-safety researcher · Lecturer**
 
 One subject throughout: **people and what they do** — studied in social theory, taught in classrooms, painted on canvas, tested under a barbell, and researched in human–AI trust.
 

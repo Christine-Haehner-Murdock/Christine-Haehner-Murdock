@@ -10,25 +10,21 @@ I work on longitudinal, evidence-based trust signals between humans and AI syste
 
 **Publications**
 
-- **Legitimacy by History: Longitudinal Evidence for Proportionate AI Safety.**
-  Position paper, Zenodo, 2026. CC BY 4.0.
+- **Legitimacy by History: Longitudinal Evidence for Proportionate AI Safety.**  
+  Position paper, Zenodo, 2026. CC BY 4.0.  
   DOI: [10.5281/zenodo.21442605](https://doi.org/10.5281/zenodo.21442605)
-- **Expectations as Selection Constraints: A Luhmannian Account of Expectations in Human–AI Communication, with AI-Evaluation and Cyber Case Studies.**
-  Theory paper, Zenodo, 2026. CC BY 4.0.
-  DOI: [10.5281/zenodo.22047979](https://zenodo.org/records/22047979)
+- **Expectations as selection constraints in human–AI communication: a Luhmannian account with implications for AI safety.**  
+  Theory paper, version 1.2, Zenodo, 2026. CC BY 4.0.  
+  DOI: [10.5281/zenodo.22254296](https://doi.org/10.5281/zenodo.22254296)
 
 ## Repositories
 
 - **Legitimacy-by-History** — position paper
-- **Expectations-as-Selection-Constraints** — preprint
+- **Expectations-as-selection-constraints** — theory paper and version history
 - **ai-evaluation-case-study-constraint-override-failure** — a small pre-registered five-model evaluation study (memory-on/-off conditions), run 02/2026
-
 
 ## Elsewhere
 
+- Research site: [christine-haehner-murdock.github.io](https://christine-haehner-murdock.github.io/)
 - ORCID: [0009-0007-5868-8011](https://orcid.org/0009-0007-5868-8011)
-
-
-
-
-
+- LinkedIn: [christinehm](https://www.linkedin.com/in/christinehm/)
